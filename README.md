@@ -12,4 +12,4 @@ To install, Python 3 and PIP are required.
 ## Licensing 
 Helsinki-NLP MT models can be found here: https://huggingface.co/Helsinki-NLP, and are released either under an Apache 2.0 licence (see here: https://www.apache.org/licenses/LICENSE-2.0) or CC 4.0 (see here: https://creativecommons.org/licenses/by/4.0/) depending on the particular model (language pair / direction). 
 
-The present translation GUI software is released under an MIT licence --- see LICENSE.md.
+The present translation GUI software is released under an MIT licence --- see the LICENSE file.
